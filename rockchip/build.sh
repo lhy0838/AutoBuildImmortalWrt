@@ -44,6 +44,7 @@ PACKAGES="$PACKAGES luci-i18n-sqm-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-statistics-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-autoreboot-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-cpufreq-zh-cn"
+PACKAGES="$PACKAGES luci-theme-material"
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
 PACKAGES="$PACKAGES script-utils"
