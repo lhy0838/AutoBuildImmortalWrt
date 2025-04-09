@@ -45,6 +45,7 @@ PACKAGES="$PACKAGES luci-i18n-cpufreq-zh-cn"
 PACKAGES="$PACKAGES luci-theme-material"
 PACKAGES="$PACKAGES luci-i18n-wol-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-alist-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
 PACKAGES="$PACKAGES htop"
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
