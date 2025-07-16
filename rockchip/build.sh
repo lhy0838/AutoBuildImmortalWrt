@@ -67,9 +67,8 @@ PACKAGES="$PACKAGES luci-i18n-statistics-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-wol-zh-cn"
 PACKAGES="$PACKAGES luci-theme-material"
 #PACKAGES="$PACKAGES luci-i18n-netdata-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-vsftpd-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
+#PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
+#PACKAGES="$PACKAGES luci-i18n-vsftpd-zh-cn"
 # 静态文件服务器dufs(推荐)
 #PACKAGES="$PACKAGES luci-i18n-dufs-zh-cn"
 
