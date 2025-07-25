@@ -75,9 +75,9 @@ PACKAGES="$PACKAGES openssh-sftp-server"
 
 # 备选部分
 #PACKAGES="$PACKAGES luci-i18n-frpc-zh-cn"
-#PACKAGES="$PACKAGES luci-i18n-netdata-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-vsftpd-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-netdata-zh-cn"
+#PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
+#PACKAGES="$PACKAGES luci-i18n-vsftpd-zh-cn"
 # ======== shell/custom-packages.sh =======
 # 合并imm仓库以外的第三方插件
 PACKAGES="$PACKAGES $CUSTOM_PACKAGES"
