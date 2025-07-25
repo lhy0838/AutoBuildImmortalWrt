@@ -63,7 +63,6 @@ PACKAGES="$PACKAGES luci-i18n-cpufreq-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-diskman-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-firewall-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-frpc-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-sqm-zh-cn"
@@ -75,8 +74,9 @@ PACKAGES="$PACKAGES luci-theme-material"
 PACKAGES="$PACKAGES openssh-sftp-server"
 
 # 备选部分
-PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
+#PACKAGES="$PACKAGES luci-i18n-frpc-zh-cn"
 #PACKAGES="$PACKAGES luci-i18n-netdata-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-vsftpd-zh-cn"
 # ======== shell/custom-packages.sh =======
 # 合并imm仓库以外的第三方插件
