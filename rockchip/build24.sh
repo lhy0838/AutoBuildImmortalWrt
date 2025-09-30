@@ -73,8 +73,8 @@ PACKAGES="$PACKAGES luci-i18n-wol-zh-cn"
 PACKAGES="$PACKAGES luci-theme-material"
 PACKAGES="$PACKAGES openssh-sftp-server"
 # 备选部分
-PACKAGES="$PACKAGES luci-i18n-netdata-zh-cn"
-#PACKAGES="$PACKAGES luci-i18n-vsftpd-zh-cn"
+#PACKAGES="$PACKAGES luci-i18n-netdata-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-vsftpd-zh-cn"
 # ======== shell/custom-packages.sh =======
 # 判断是否需要编译 Docker 插件
 if [ "$INCLUDE_DOCKER" = "yes" ]; then
